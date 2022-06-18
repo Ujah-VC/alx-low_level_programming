@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 /**
   * print_number - print numbers chars
   * @n: integer params
